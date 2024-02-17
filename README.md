@@ -19,6 +19,4 @@ If you'd like to contribute or provide feedback:
 3. Make your enhancements or fixes.
 4. Create a pull request.
 
-[Watch the Video on LinkedIn]([your_linkedin_video_link_here](https://www.linkedin.com/posts/didarul-islam71_amazon-activity-7099594454264659968-zSSk?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/didarul-islam71_amazon-activity-7099594454264659968-zSSk?utm_source=share&utm_medium=member_desktop)
-
 Happy coding! 🚀🖥️
